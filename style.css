@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card1{
+    background: linear-gradient(rgb(100, 245, 100), rgb(72, 240, 145));
+    border-radius: 10px;
+    width: 45%;
+    box-sizing: border-box;
+    margin: 5% auto;
+    padding: 8% 5% 8% 3%;
+}
+
+.card1 h1{
+    font-size: 60px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin: 2% auto;
+    font-weight: bold;
+}
+
+.card1 p{
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-style: normal;
+    margin: 4% auto;
+    font-weight: 600;
+}
+
+.card1 button{
+    background-color: white;
+    margin: 4% auto;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    border: none;
+    padding: 4% 8% 4% 8%;
+    border-radius: 60px;
+    font-size: 20px;
+}
+
+.card2{
+    width: 45%;
+    border: 2px solid #cac6c6;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 5% auto;
+}
+
+.section1{
+    margin: 8% 25% 5% 5%;
+}
+
+.section1 h2{
+    color: #1f1f1f;
+    font-size: 30px;
+    font-family: "Google Sans Text",Roboto,Arial,sans-serif;
+    font-weight: 400;
+}
+
+.section1 p{
+    color: #6d7472;
+    font-size: 18px;
+    font-family: "Google Sans Text",Roboto,Arial,sans-serif;
+    margin: 5% auto;
+}
+
+.section1 img{
+    margin: 6% 10%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.section2{
+    border-top: 2px solid #cac6c6;
+    padding: 5% 5% 5% 9%;
+}
+
+.section2 a{
+    color: #0077ff;
+    font-family: "Google Sans Text",Roboto,Arial,sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.card3{
+    border: 2px solid #cac6c6;
+    width: 38%;
+    box-sizing: border-box;
+    margin: 5% auto;
+    border-radius: 10px;
+    font-family: "Google Sans Text",Roboto,Arial,sans-serif;
+}
+
+.pic{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.section3{
+    margin: 5% 3% 3% 5%;
+}
+
+.section3 i{
+    color: grey;
+    font-size: 25px;
+}
+
+.section3 h3{
+    color: grey;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 8%;
+    margin-top: -5%;
+}
+
+.section4{
+    margin: 5% 12% 3% 5%;
+}
+
+.section4 h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.section4 p{
+    margin-top: 3%;
+    color: grey;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.section4 button{
+    color: #0077ff;
+    background-color: white;
+    border: 2px solid #cac6c6;
+    border-radius: 5px;
+    margin: 8% 5% 5% 0;
+    padding: 3% 10%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card4{
+    border-top: 2px solid grey;
+    width: 80vw;
+    margin: 5% auto;
+}
+
+.section5{
+    width: 38%;
+    box-sizing: border-box;
+    margin: 8% auto;
+    text-align: center;
+}
+
+.logo{
+    width: 60%;
+    margin-bottom: 5%;
+}
+
+.section5 h4{
+    font-size: 20px;
+    margin: 5% 0 8% 0;
+}
+
+.section5 input{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+}
+
+.show_btn{
+    background-color: white;
+    margin-top: -12%;
+    margin-left: 70%;
+    color: rgb(189, 183, 183);
+}
+
+.login_btn{
+    background-color: black;
+    color: white;
+    padding: 16px 25px;
+    border-radius: 50px;
+    border: none;
+    font-size: 16px;
+    width: 70%;
+    box-sizing: border-box;
+    margin: 10%;
+}
+
+.para1{
+    color: grey;
+    margin: 2%;
+}
+
+.para1 a{
+    color: black;
+}
+
+a{
+    color: black;
+}
+
+.para2{
+    color: grey;
+    margin: 10%;
+    font-size: 15px;
+}
+
+.para2 a{
+    color: grey;
+}
